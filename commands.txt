@@ -1,0 +1,57 @@
+    1  git init
+    2  [200~git config --global user.name “[firstname lastname]”
+    3  git config --global user.name “sania9255"
+    4   git config --global user.name “Sania9255"
+    5  git config --global user.email “saniashinde15@gmail.com”
+    6  cd Desktop/
+    7  cd TE CSE 40
+    8  cd TE CSE 40/
+    9  cd SEPM/
+   10  cd SEPM2/
+   11  cd SEPM2/
+   12  git add .
+   13  git commit -m "Initial Commit"
+   14  git branch -r
+   15  git remote add origin https://github.com/Sania9255/SEPM2
+   16  git remote -v
+   17  git push origin main
+   18  git push origin master
+   19  git add.
+   20  git add .
+   21  mkdir sepmprac
+   22  ls
+   23  cd
+   24  cd sepmprac
+   25  ls -a
+   26  git init
+   27  ls -a
+   28  git config --global user.email["r220269@famt.ac.in"]
+   29  git config --global user.email "r220269@famt.ac.in"
+   30  git status
+   31  git add demo.py
+   32  git commit -m "file added"
+   33  git status
+   34  git status
+   35  git add demo2.py
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m "all files added"
+   40  git status
+   41  git commit -m "all files added"
+   42  git commit -m "file 2"
+   43  git push origin name
+   44  git push origin main
+   45  git push origin master
+   46  git remote add origin https://github.com/EshaChikhale/sepmprac.git
+   47  git push origin main
+   48  git push -u origin main
+   49  git push -u origin master
+   50  git merge origin/main --allow-unrelated-histories 
+   51  git fetch origin 
+   52  git merge origin/main --allow-unrelated-histories 
+   53  git push origin main
+   54  history
+   55  history | >> commands.txt
+   56  ls
+   57  history > commands.txt
